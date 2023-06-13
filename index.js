@@ -19,5 +19,5 @@ app.listen(PORT, async () => {
     console.log(error);
   }
 
-  console.log("Server is started on port number", port);
+  console.log("Server is started on port number", PORT);
 });
